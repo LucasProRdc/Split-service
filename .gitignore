@@ -1,0 +1,10 @@
+.idea/dpp-split-service.iml
+.idea/
+__pycache__/
+config/keys_sftp/Renner_UY.pem
+config/keys_sftp/Renner_AR.pem
+config/certificate/certificate.crt
+config/certificate/certificate.key
+local_files/
+logs/app.log
+requirements.txt
